@@ -1,5 +1,9 @@
 # DEPLOYING A WEB APPLICATION TO AMAZON ECS USING EC2, DOCKER, ECR & LOAD BALANCER
 
+__ARCHITECTURE DIAGRAM__
+
+![](img/docker-ecs.jpeg) <br><br>
+
 __STEPS__
 
 1. Login to AWS and navigate to EC2 to create an instance, not forgetting to attach a keypair to the instance. <br><br>
